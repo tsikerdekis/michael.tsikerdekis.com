@@ -11,7 +11,7 @@ title                    : "Michael Tsikerdekis"
 title_separator          : "-"
 name                     : &name "Michael Tsikerdekis"
 description              : &description "Assistant Profssor, Computer Science, Western Washington University"
-url                      : http://michael.tsikerdekis.com
+url                      : https://tsikerdekis.github.io/michael.tsikerdekis.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tsikerdekis/michael.tsikerdekis.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Tsikerdekis"
-  avatar           : "avatar.jpeg"
+  avatar           : "Me1.png"
   bio              : "Assistant Professor, Computer Science, Western Washington University"
   location         : "Bellingham, WA"
   googlescholar    : "https://scholar.google.com/citations?user=VCDSLMIAAAAJ&hl=en"

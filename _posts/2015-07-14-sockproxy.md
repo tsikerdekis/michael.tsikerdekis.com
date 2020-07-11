@@ -1,4 +1,9 @@
-Hiding your real IP from the Internet using a proxy and securing it through your firewall
+---
+layout: post
+author: Michael Tsikerdekis
+permalink: /:categories/:year/:month/:day/:title/
+title: Hiding your real IP from the Internet using a proxy and securing it through your firewall
+---
 
 <p>
 	This article is not about setting up a proxy on your browser, skype or torrents. This is easy! Just go on your application's options and setup your proxy. You should of course have access to a proxy server that ideally does not retain any log files. If they do, then if those log files can be accessed by someone then your traffic history would be available to them. So, you got your proxy server (paid or free) with no log files and you have its port and authentication (if any). You set everything up on your browser or torrent application and that's it, right? All your traffic parsed through the proxy, others see the proxy's IP address while you are hidden behind the proxy. Well, that is not always the case and the reason boils down to he programming of the application that you are using. This is a guide on how to put an additional layer of protection through applying firewall.<br />

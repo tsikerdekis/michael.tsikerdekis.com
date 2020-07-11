@@ -1,4 +1,9 @@
-Importing Wikipedia Dumps to Mysql
+---
+layout: post
+author: Michael Tsikerdekis
+permalink: /:categories/:year/:month/:day/:title/
+title: Importing Wikipedia Dumps to Mysql
+---
 
 <p>
 	<span style="color: rgb(68, 68, 68); font-family: 'Droid Serif', 'Open Sans', Cambria, Georgia, 'DejaVu Serif', serif; font-size: 14.3999996185303px; line-height: 23.0399990081787px; text-align: justify;">It can be quite frustrating adding Wikipedia Dumps in a local database. For some Wikipedias, such as the English Wikipedia, it takes a long time. This is a collection of scripts I've used to import Wikipedia dumps in Mysql.</span><br style="clear: none; line-height: 0.9em; color: rgb(68, 68, 68); font-family: 'Droid Serif', 'Open Sans', Cambria, Georgia, 'DejaVu Serif', serif; font-size: 14.3999996185303px; text-align: justify;" />

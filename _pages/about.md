@@ -7,23 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I conduct research in computing education, an interdisciplinary field that involves the knowledge of:
+Hello there and welcome to my personal website!
 
-* Computer Science
-* Data Science
-* Software Engineer
-* Learning Science
-* Educational Psychology
+I am an Assistant Professor in Computer Science at Western Washington University, located in the small but quaint city of Bellingham WA. My scientific research theme lies at the intersection of computational systems and social systems, and my research interests revolve around online deception, cybersecurity, data mining and machine learning. I am also an IEEE Senior Member.
 
-If you are a student at Western Washington University looking for senior projects, independent study, or graduate study, please feel free to send me an email at qiang.hao@wwu.edu or talk to [a member of my research lab](/research/).
+My background is in Computer Science and covers many years of interdisciplinary work in academic departments varying from Sociology to Information Science. In past projects, I have also been actively involved in online communities, web development & design. My spare time is mostly spent reading and writing fiction themes which I both thoroughly enjoy, along with developing and participating in online communities from which I draw my inspiration for my scientific studies.
+
+On a more personal level, I should also mention my great love and appreciation for the outdoors and the energy that feeds my inner self from the experiences created in the natural world with my beautiful family. Parallel to this, lies my utter devotion to the world of video games (of all genres) and the adventures created within the digital world.
+
+
+> WWU Students or Prospective Students
+> Interested in working on a research project (e.g., pursuing research in Forensics/Security and Social Computing) through graduate studies, independent study or otherwise? I am always on the lookout for dedicated undergraduate and graduate students that want to gain more experience and discover interesting things. [Contact me](/contact/)
+
 
 News
 ======
 
-* 03/12/2020: SIGCSE canceled; our invited presentation can be accessed [here](https://twitter.com/i/status/1238224543765823488)
-* 11/04/2019: My lab won a NASA Space Grant
-* 06/17/2019: [One paper](https://arxiv.org/abs/1906.08937) accepted by 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
-* 06/01/2019: One paper conditionally accepted (minor revision) by ACM Transactions on Computing Education (TOCE)
-* 05/01/2019: [One paper](/publications/prior-cs-knowledge) published by ACM CompEd 2019
-* 05/01/2019: I won Open Education Resource Grant from WWU to transform a CS course in this summer
-* 02/22/2019: [One paper](/publications/active-learning-environment) published by ACM Sigcse 2019
+Twitter placeholder

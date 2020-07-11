@@ -23,4 +23,4 @@ On a more personal level, I should also mention my great love and appreciation f
 News
 ======
 
-Twitter placeholder
+<a class="twitter-timeline" href="https://twitter.com/tsikerdekis?ref_src=twsrc%5Etfw">Tweets by tsikerdekis</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

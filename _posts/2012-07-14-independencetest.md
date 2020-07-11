@@ -1,4 +1,9 @@
-Bayesian Test of Independence
+---
+layout: post
+author: Michael Tsikerdekis
+permalink: /:categories/:year/:month/:day/:title/
+title: Bayesian Test of Independence
+---
 
 <h1 id="hn_Bayesian_Test_of_Independence" style="font-weight: 300; font-stretch: normal; font-size: 18pt; line-height: 19pt; font-family: 'Droid Serif', 'Open Sans', 'Lucida Grande', 'Lucida Sans Unicode', 'DejaVu Sans', Arial, 'Trebuchet MS', Verdana, sans-serif; margin: 0pt; color: rgb(153, 51, 85); padding-bottom: 5px; border-style: none; text-shadow: rgb(221, 221, 221) 1px 1px 0px; background-color: transparent;">
 	<a class="heading" href="http://tsikerdekis.wuwcorp.com/BayesianTestofIndependence#hn_Introduction" style="font-size: 15pt; line-height: 18pt; width: auto; color: rgb(153, 51, 85); text-shadow: rgb(238, 238, 238) 1px 1px 0px; font-stretch: normal; margin: 0pt; padding-top: 10px; padding-bottom: 10px; background-color: transparent;">Introduction</a></h1>

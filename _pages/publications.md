@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+	.ec-lmcsc-10x-x-144{font-size:144%;}
+	.ec-lmbx-10{ font-weight: bold;}
+	.ec-lmcsc-10x-x-90{font-size:90%;}
+	.ec-lmtt-10{ font-family: monospace;}
+	.ec-lmri-10{ font-style:italic;}
+	.ec-lmbxi-10{ font-style:italic; font-weight: bold;}
+</style>
+
 <p class="noindent">
 	<span class="ec-lmbx-10">Tsikerdekis, M. </span>and S. Zeadally, “Detecting Online Content Deception”, <span class="ec-lmri-10">IT Professional</span>, vol. 22, no. 2, pp. 35–44, 2020, <span class="ec-lmcsc-10">issn</span>: 1520-9202. <span class="ec-lmcsc-10">doi</span>: <a href="https://doi.org/10.1109/MITP.2019.2961638">10.1109/MITP.2019.2961638</a>. <span class="ec-lmbx-10">Impact Factor: 2.424 </span><a href="https://tsikerdekis.com/sites/default/files/itproarticle2020.pdf">[pdf]</a> <!--l. 231--></p>
 

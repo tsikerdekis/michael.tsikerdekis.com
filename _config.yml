@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiang Hao"
+title                    : "Michael Tsikerdekis"
 title_separator          : "-"
-name                     : &name "Qiang Hao"
-description              : &description "Assistant Profssor, Computer Science & SMATE, Western Washington University"
-url                      : http://qhao.info
+name                     : &name "Michael Tsikerdekis"
+description              : &description "Assistant Profssor, Computer Science, Western Washington University"
+url                      : http://michael.tsikerdekis.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Neo-Hao/neo-hao.github.io"
+repository               : "tsikerdekis/michael.tsikerdekis.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,15 +79,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qiang Hao"
+  name             : "Michael Tsikerdekis"
   avatar           : "avatar.jpeg"
-  bio              : "Assistant Profssor, Computer Science & SMATE, Western Washington University"
+  bio              : "Assistant Professor, Computer Science, Western Washington University"
   location         : "Bellingham, WA"
-  googlescholar    : "https://scholar.google.com/citations?user=X9zUec0AAAAJ&hl=en"
-  email            : "qiang.hao@wwu.edu"
-  researchgate     : "https://www.researchgate.net/profile/Qiang_Hao7"
-  github           : "Neo-Hao"
-  twitter          : "qhaocs"
+  googlescholar    : "https://scholar.google.com/citations?user=VCDSLMIAAAAJ&hl=en"
+  email            : "Michael.Tsikerdekis@wwu.edu"
+  researchgate     : "https://www.researchgate.net/profile/Michael_Tsikerdekis"
+  github           : "tsikerdekis"
+  twitter          : "tsikerdekis"
 
 
 # Reading Files

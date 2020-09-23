@@ -9,7 +9,7 @@ redirect_from:
 
 Hello there and welcome to my personal website!
 
-I am an Assistant Professor in Computer Science at Western Washington University, located in the small but quaint city of Bellingham WA. My scientific research theme lies at the intersection of computational systems and social systems, and my research interests revolve around online deception, cybersecurity, data mining and machine learning. I am also an IEEE Senior Member.
+I am an Assistant Professor in Computer Science at Western Washington University, located in the small but quaint city of Bellingham WA. My scientific research theme lies at the intersection of computational systems and social systems, and my research interests revolve around online deception, cybersecurity, data mining and machine learning. I am also an IEEE Senior Member and chair of the [https://pisces-nw.org/](PISCES) Technical Advisory Committee.
 
 My background is in Computer Science and covers many years of interdisciplinary work in academic departments varying from Sociology to Information Science. In past projects, I have also been actively involved in online communities, web development & design. My spare time is mostly spent reading and writing fiction themes which I both thoroughly enjoy, along with developing and participating in online communities from which I draw my inspiration for my scientific studies.
 

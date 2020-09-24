@@ -24,8 +24,7 @@ Past
 
 Education
 ======
-* Ph.D. in Learning, Design and Technology, University of Georgia, 2017
-* M.Sc. in Computer Science, University of Georgia, 2017
-* M.Sc. in Information Technology Studies, University of Hong Kong, 2012
+* Ph.D. Informatics [Computer Science], Masaryk University, Czechia, 2013
+* Mgr. Forestry and Natural Environment, Aristotle University, Greece, 2008
 
 Want to make your own CV in Latex? Download the template [here](/downloads/cvtemplate.zip).

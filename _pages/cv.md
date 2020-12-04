@@ -22,6 +22,11 @@ Past
 * February 2012- July 2012 Lecturer, Masaryk University
 * December 2008 -  February 2009 IT System Server Operator, IBM IDC (GSDC) -- Brno, Czech Republic
 
+Grant Funding
+======
+* Fretheim, E., Tsikerdekis, M., Co-PI. (July-September 2020). Public Infrastructure Security Cyber Education System - Northwest (PISCES-NW), Pacific
+Northwest National Laboratory (PNNL).
+
 Education
 ======
 * Ph.D. Informatics [Computer Science], Masaryk University, Czechia, 2013

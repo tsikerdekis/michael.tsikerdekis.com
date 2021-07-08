@@ -30,6 +30,6 @@ Northwest National Laboratory (PNNL).
 Education
 ======
 * Ph.D. Informatics [Computer Science], Masaryk University, Czechia, 2013
-* Mgr. Forestry and Natural Environment, Aristotle University, Greece, 2008
+* BSc/Mgr. Forestry and Natural Environment, Aristotle University, Greece, 2008
 
 Want to make your own CV in Latex? Download the template [here](/downloads/cvtemplate.zip).

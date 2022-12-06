@@ -13,7 +13,7 @@ Longer version of this CV: [pdf](/downloads/cvresume_academic.pdf)
 
 Current
 ======
-* September 2021 Associate Professor, Western Washington University, Computer Science Department
+* September 2021 - Associate Professor, Western Washington University, Computer Science Department
 
 Past
 ======

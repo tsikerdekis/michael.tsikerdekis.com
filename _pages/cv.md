@@ -13,10 +13,11 @@ Longer version of this CV: [pdf](/downloads/cvresume_academic.pdf)
 
 Current
 ======
-* July 2017 Assistant Professor, Western Washington University, Computer Science Department
+* September 2021 Associate Professor, Western Washington University, Computer Science Department
 
 Past
 ======
+* July 2017 - September 2021 Assistant Professor, Western Washington University, Computer Science Department
 * August 2013 - July 2017 Assistant Professor, University of Kentucky, School of Information Science
 * September 2012 - January 2013 Teaching Assistant, Masaryk University
 * February 2012- July 2012 Lecturer, Masaryk University

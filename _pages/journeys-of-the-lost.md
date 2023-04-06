@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /journeys-of-the-lost
 title: "Journeys of the Lost"
 author_profile: true
 redirect_from:

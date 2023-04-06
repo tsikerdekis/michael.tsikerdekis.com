@@ -8,7 +8,7 @@ redirect_from:
   - /journeys_of_the_lost.html
 ---
 
-![image](/images/Cover1024_1.jpg){: style="float: left"}
+![image](/images/Cover1024_1.jpg){: style="width:200px;float: left"}
 
 *An immortal man cursed with the ability to see the dead must protect a god in mortal form from a looming evil that threatens the world.*
 

@@ -3,6 +3,7 @@ permalink: /
 title: "Journeys of the Lost"
 author_profile: true
 redirect_from:
+  - /journeys-of-the-lost/
   - /journeys_of_the_lost/
   - /journeys_of_the_lost.html
 ---

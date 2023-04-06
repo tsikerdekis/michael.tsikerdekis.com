@@ -31,6 +31,7 @@ The book also includes light romance and explores themes of determination, defia
 
 <!-- Begin Sendinblue Form -->
 <!-- START - We recommend to place the below code in head tag of your website html  -->
+<!--
 <style>
   @font-face {
     font-display: block;
@@ -70,6 +71,7 @@ The book also includes light romance and explores themes of determination, defia
     color: #c0ccda;
   }
 </style>
+-->
 <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
 <!--  END - We recommend to place the above code in head tag of your website html -->
 

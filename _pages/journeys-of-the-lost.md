@@ -10,7 +10,7 @@ redirect_from:
 
 ![image](/images/Cover1024_1.jpg){: style="margin:10px;width:200px;float: left"}
 
-*An immortal man cursed with the ability to see the dead must protect a god in mortal form from a looming evil that threatens the world.*
+**An immortal man cursed with the ability to see the dead must protect a god in mortal form from a looming evil that threatens the world.**
 
 Cursed for an eternity, Cane is an immortal man who can see the dead and walks the Earth as a punishment for killing a god. Living an existence of pain and suffering for centuries, he has been reduced to hunting monsters lurking in the shadows of our 21st-century world.
 
@@ -20,8 +20,8 @@ Journeys of the Lost: The Saga of Cane is a contemporary supernatural fiction no
 
 The book also includes light romance and explores themes of determination, defiance, injustice, and redemption. The adventure will take readers across the globe, from Israel to China, North America, and even Antarctica, as sinister forces threaten to destroy the world.
 
-*If you liked HIS DARK MATERIALS, or HIGHLANDER, you will LOVE this book.*
+**If you liked HIS DARK MATERIALS, or HIGHLANDER, you will LOVE this book.**
 
-<center>[Buy Now](https://amazon.com)</center>
+<center>**[Buy Now](https://amazon.com)**</center>
 
 Subscribe to email list placeholder

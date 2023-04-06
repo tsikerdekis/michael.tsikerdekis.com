@@ -22,7 +22,12 @@ The book also includes light romance and explores themes of determination, defia
 
 **If you liked HIS DARK MATERIALS, or HIGHLANDER, you will LOVE this book.**
 
-<center> [Buy Now](https://amazon.com) </center>
+<center> 
+ 
+ [Buy Now](https://amazon.com)
+
+</center>
+
 
 <!-- Begin Sendinblue Form -->
 <!-- START - We recommend to place the below code in head tag of your website html  -->

@@ -6,7 +6,7 @@ redirect_from:
   - /thank-you.html
 ---
 
-Thank you for subscribing to my mailing list and welcome to the world of Journeys of the Lost and my personal mailing list.
+**Thank you** for subscribing to my mailing list and welcome to the world of Journeys of the Lost and my personal mailing list.
 
 One step before we proceed. Please look out for the email confirmation in order to verify your email. If you do not see anything within a minute, make sure to check in the SPAM or JUNK folder just in case and if the email is there **whitelist** it by reporting that it is not a spam. Additional whitelisting instructions are provided at the end of the page just in case.
 

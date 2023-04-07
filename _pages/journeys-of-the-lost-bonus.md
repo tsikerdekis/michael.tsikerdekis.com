@@ -7,13 +7,18 @@ redirect_from:
   - /journeys_of_the_lost-bonus/
   - /journeys_of_the_lost-bonus.html
 ---
+# Welcome to the subscribed content
+
+I'll keep in touch, aiming for one communication per month. I will sending out emails regarding the progress of my other books as well as other interesting life stories and facts around topics of science, science fiction and fantasy.
+
+However, I could not leave you empty handed. As promised, please find below a list of the bonus materials from the Journeys of the Lost: The Saga of Cane. Oh, and don't forget, if you liked the book, please consider leaving a review [here](https://amazon.com).
+
+# Bonus Materials
 
 Welcome to the bonus materials for the Journeys of the Lost: The Saga of Cane book and my mailing list.
 **Thank you for joining me in this journey!**
 
 I plan to add materials here so feel free to boomark this page.
-I will also be sending out not to often emails regarding the progress of my other books as well as other interesting life stories and facts around
-topics of science, science fiction and fantasy.
 
 # PLACEHOLDER TITLE
 

@@ -20,7 +20,7 @@ IMAGE PLACEHOLDER
 Here are the instructions for whitelisting email addresses in Gmail:
 
     Open your Gmail account and click on the gear icon in the top right corner of the screen.
-    Select "Settings" from the dropdown menu.
+    Select "Settings" from the dropdown menu (three dots), then "Manage inbox settings."
     Click on the "Filters and Blocked Addresses" tab.
     Scroll down to the bottom of the page and click on "Create a new filter".
     In the "From" field, enter the email address that you want to whitelist.

@@ -23,6 +23,10 @@ I plan to add materials here so feel free to boomark this page.
 # Character portraits
 
 ## Cane
-<img src="/images/jotl/cane.png" width="200">
+<img src="/images/jotl/cane.png" width="300">
+
+## Abigail
+<img src="/images/jotl/abigail.png" width="300">
 
 ## Raina
+<img src="/images/jotl/raina.png" width="300">

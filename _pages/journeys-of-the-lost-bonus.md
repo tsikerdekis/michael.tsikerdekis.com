@@ -23,6 +23,6 @@ I plan to add materials here so feel free to boomark this page.
 # Character portraits
 
 ## Cane
-<img src="/images/jotl/cane.png" alt="Employee data" width="200">
+<img src="/images/jotl/cane.png" width="200">
 
 ## Raina

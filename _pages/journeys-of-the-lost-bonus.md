@@ -20,6 +20,9 @@ Welcome to the bonus materials for the Journeys of the Lost: The Saga of Cane bo
 
 I plan to add materials here so feel free to boomark this page.
 
-# PLACEHOLDER TITLE
+# Character portraits
 
-MATERIALS PLACEHOLDER
+## Cane
+<img src="/images/jotl/cane.png" alt="Employee data" width="200">
+
+## Raina

@@ -30,3 +30,10 @@ I plan to add materials here so feel free to boomark this page.
 
 ## Raina
 <img src="/images/jotl/raina.png" width="300">
+
+## Hikaru (ひかる、光）
+<img src="/images/jotl/hikaru.png" width="300">
+
+## Legion
+<img src="/images/jotl/legion.png" width="300">
+

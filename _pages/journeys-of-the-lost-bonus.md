@@ -23,17 +23,17 @@ I plan to add materials here so feel free to boomark this page.
 # Character portraits
 
 ## Cane
-<img src="/images/jotl/cane.png" width="300">
+<img src="/images/jotl/cane.png" width="500">
 
 ## Abigail
-<img src="/images/jotl/abigail.png" width="300">
+<img src="/images/jotl/abigail.png" width="500">
 
 ## Raina
-<img src="/images/jotl/raina.png" width="300">
+<img src="/images/jotl/raina.png" width="500">
 
 ## Hikaru (ひかる、光）
-<img src="/images/jotl/hikaru.png" width="300">
+<img src="/images/jotl/hikaru.png" width="500">
 
 ## Legion
-<img src="/images/jotl/legion.png" width="300">
+<img src="/images/jotl/legion.png" width="500">
 

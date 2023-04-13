@@ -1011,7 +1011,7 @@ transform-origin: 0 0;
 <div class="ml-form-successContent">
 
 <h4>Thank you!</h4>
-<p>You have successfully joined our the giveaway list. Expect an email soon in the event that you have been chosen, otherwise you will receive no other emails.<br></p>
+<p>You have successfully joined the giveaway list. Expect an email soon in the event that you have been chosen.<br></p>
 
 </div>
 

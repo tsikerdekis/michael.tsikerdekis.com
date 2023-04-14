@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michaeͥl Tsikerdekis"
 title_separator          : "-"
 name                     : &name "Michaeͥl Tsikerdekis"
-description              : &description "Associate Professor, Computer Science, Western Washington University"
+description              : &description "Author and Associate Professor of Computer Science, Western Washington University"
 url                      : https://michael.tsikerdekis.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tsikerdekis/michael.tsikerdekis.com"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Michaeͥl Tsikerdekis"
   avatar           : "Me1.png"
-  bio              : "Associate Professor, Computer Science, Western Washington University"
+  bio              : "Author and Associate Professor of Computer Science, Western Washington University"
   location         : "Bellingham, WA"
   googlescholar    : "https://scholar.google.com/citations?user=VCDSLMIAAAAJ&hl=en"
   email            : "Michael.Tsikerdekis@wwu.edu"

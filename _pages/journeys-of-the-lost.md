@@ -24,7 +24,7 @@ The book also includes light romance and explores themes of determination, defia
 
 <center> 
  
- [Buy Now](https://amazon.com)
+ [Buy](https://www.amazon.com/dp/B0C2BTGC1N)
 
 </center>
 

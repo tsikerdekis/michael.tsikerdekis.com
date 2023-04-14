@@ -15,7 +15,7 @@ I am an Associate Professor in Computer Science at Western Washington University
 My background is in Computer Science and covers many years of interdisciplinary work in academic departments varying from Sociology to Information Science. My research interests revolve around online deception, cybersecurity, data mining and machine learning.
 
 ## Books
-I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to non-fiction scientific books. I write on my free time stories with compelling characters and inspiring stories.
+I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to non-fiction scientific books. I write on my free time books with compelling characters and inspiring stories.
 
 ## Personal
 On a more personal level, I should also mention my great love and appreciation for the outdoors and the energy that feeds my inner self from the experiences created in the natural world with my beautiful family. Parallel to this, lies my utter devotion to the world of video games (of all genres) and the adventures created within the digital world.

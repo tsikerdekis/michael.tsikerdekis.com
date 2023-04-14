@@ -9,10 +9,15 @@ redirect_from:
 
 Hello there and welcome to my personal website!
 
-I am an Associate Professor in Computer Science at Western Washington University, located in the small but quaint city of Bellingham WA. My scientific research theme lies at the intersection of computational systems and social systems, and my research interests revolve around online deception, cybersecurity, data mining and machine learning. I am also an IEEE Senior Member and chair of the [PISCES](https://pisces-nw.org/) Technical Advisory Committee.
+I am an Associate Professor in Computer Science at Western Washington University, located in the small but quaint city of Bellingham WA. I am also a fantasy novel author of the book [Journeys of the Lost: The Saga of Cane](/journeys-of-the-lost). Also, an IEEE Senior Member and chair of the [PISCES](https://pisces-nw.org/) Technical Advisory Committee.
 
-My background is in Computer Science and covers many years of interdisciplinary work in academic departments varying from Sociology to Information Science. In past projects, I have also been actively involved in online communities, web development & design. My spare time is mostly spent reading and writing fiction themes which I both thoroughly enjoy, along with developing and participating in online communities from which I draw my inspiration for my scientific studies.
+## Science
+My background is in Computer Science and covers many years of interdisciplinary work in academic departments varying from Sociology to Information Science. My research interests revolve around online deception, cybersecurity, data mining and machine learning.
 
+## Books
+I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to non-fiction scientific books. I write on my free time stories with compelling characters and inspiring stories.
+
+## Personal
 On a more personal level, I should also mention my great love and appreciation for the outdoors and the energy that feeds my inner self from the experiences created in the natural world with my beautiful family. Parallel to this, lies my utter devotion to the world of video games (of all genres) and the adventures created within the digital world.
 
 

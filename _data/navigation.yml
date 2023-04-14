@@ -5,6 +5,9 @@ main:
 
   - title: "CV"
     url: /cv/
+    
+  - title: "Journeys of the Lost"
+    url: /journeys-of-the-lost
 
   - title: "Blog"
     url: /blog/

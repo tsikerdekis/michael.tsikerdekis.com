@@ -34,7 +34,7 @@ The book also includes light romance and explores themes of determination, defia
    /*Button Three*/
 .button-three {
     position: relative;
-    background-color: #f39c12;
+    background-color: #ffffff;
     border: none;
     padding: 20px;
     width: 200px;

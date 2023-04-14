@@ -71,7 +71,7 @@ The book also includes light romance and explores themes of determination, defia
     transition: 0s
 }
   </style>
-  <a class="button-three" href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Buy</a>
+  <a class="button-three" href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Buy on Amazon</a>
 </center>
 
 

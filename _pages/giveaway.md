@@ -768,7 +768,7 @@ color: #ff0000 !important;
 
 <h4>Enter FREE book giveaway</h4>
 <p>This is a giveaway for the "Journeys of the Lost: The Saga of Cane" e-book version. It is listed for pre-order on Amazon here:
-  <a href="https://www.amazon.com/dp/B0C2BTGC1N">https://www.amazon.com/dp/B0C2BTGC1N</a>
+  <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">https://www.amazon.com/dp/B0C2BTGC1N</a>
  <br /> 
  <br />
  There is a limited number of copies that can be adjusted depending on demand. By entering, you are accepting to receive an email if you are selected, as well as receive news about future book events and news from me. Please answer the following questions to enter the giveaway:</p>

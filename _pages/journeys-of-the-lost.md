@@ -86,40 +86,13 @@ The book also includes light romance and explores themes of determination, defia
     overflow: hidden;
     color: #ffffff;
 }
-
-.button-one:hover{
-   background:#fff;
-   box-shadow:0px 2px 10px 5px #97B1BF;
-   color:#000;
-}
-
-.button-one:after {
-    content: "";
-    background: #f1c40f;
-    display: block;
-    position: absolute;
-    padding-top: 300%;
-    padding-left: 350%;
-    margin-left: -20px !important;
-    margin-top: -120%;
-    opacity: 0;
-    transition: all 0.8s
-}
-
-.button-one:active:after {
-    padding: 0;
-    margin: 0;
-    opacity: 1;
-    transition: 0s
-}
   </style>
-  <div>
+
   <a class="button-one" href="bit.ly/3L340Oa" target="_blank">Download for FREE</a>
-  </div>
-  <br />
-  <div>
+
+
+
   <a class="button-three" href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Buy on Amazon</a>
-  </div>
 </center>
 
 

@@ -73,7 +73,7 @@ The book also includes light romance and explores themes of determination, defia
 }
     
      /*Button one*/
-.button-three {
+.button-one {
     position: relative;
     background-color: #8ed745;
     border: none;
@@ -87,13 +87,13 @@ The book also includes light romance and explores themes of determination, defia
     color: #ffffff;
 }
 
-.button-three:hover{
+.button-one:hover{
    background:#fff;
    box-shadow:0px 2px 10px 5px #97B1BF;
    color:#000;
 }
 
-.button-three:after {
+.button-one:after {
     content: "";
     background: #f1c40f;
     display: block;
@@ -106,7 +106,7 @@ The book also includes light romance and explores themes of determination, defia
     transition: all 0.8s
 }
 
-.button-three:active:after {
+.button-one:active:after {
     padding: 0;
     margin: 0;
     opacity: 1;

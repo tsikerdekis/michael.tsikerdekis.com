@@ -25,7 +25,7 @@ The book also includes light romance and explores themes of determination, defia
 <center> 
  
   <style>
-  .button-three{
+  .button-three, .button-one{
   text-align: center;
   cursor: pointer;
   font-size:24px;
@@ -71,7 +71,49 @@ The book also includes light romance and explores themes of determination, defia
     opacity: 1;
     transition: 0s
 }
+    
+     /*Button one*/
+.button-three {
+    position: relative;
+    background-color: #8ed745;
+    border: none;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    color: #ffffff;
+}
+
+.button-three:hover{
+   background:#fff;
+   box-shadow:0px 2px 10px 5px #97B1BF;
+   color:#000;
+}
+
+.button-three:after {
+    content: "";
+    background: #f1c40f;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button-three:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
   </style>
+  <a class="button-one" href="bit.ly/3L340Oa" target="_blank">Download for FREE</a>
   <a class="button-three" href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Buy on Amazon</a>
 </center>
 

@@ -44,14 +44,12 @@ The book also includes light romance and explores themes of determination, defia
     text-decoration: none;
     overflow: hidden;
     color: #ffffff;
-    font-color: #000;
 }
 
 .button-three:hover{
    background:#fff;
    box-shadow:0px 2px 10px 5px #97B1BF;
    color:#000;
-   font-color: #000;
 }
 
 .button-three:after {
@@ -117,7 +115,7 @@ The book also includes light romance and explores themes of determination, defia
 }
   </style>
 
-  <div class="button-three"><a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Buy on Amazon</a></div>
+  <div class="button-three"><a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank" style="color:#000;">Buy on Amazon</a></div>
 </center>
 
 <br /><br />

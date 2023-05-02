@@ -115,11 +115,7 @@ The book also includes light romance and explores themes of determination, defia
 }
   </style>
 
-  <div style="float:left"><a href="https://bit.ly/3L340Oa" target="_blank">Download for FREE</a></div>
-
-
-
-  <div style="float:right"><a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Buy on Amazon</a></div>
+  <div class="button-one"><a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Buy on Amazon</a></div>
 </center>
 
 <br /><br />

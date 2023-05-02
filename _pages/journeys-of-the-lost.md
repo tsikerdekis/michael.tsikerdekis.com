@@ -44,12 +44,14 @@ The book also includes light romance and explores themes of determination, defia
     text-decoration: none;
     overflow: hidden;
     color: #ffffff;
+    font-color: #000;
 }
 
 .button-three:hover{
    background:#fff;
    box-shadow:0px 2px 10px 5px #97B1BF;
    color:#000;
+   font-color: #000;
 }
 
 .button-three:after {

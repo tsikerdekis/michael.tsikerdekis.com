@@ -19,10 +19,10 @@ Tsikerdekis, M. and S. Zeadally, “Misinformation detection using deep learning
 Li, R. and M. Tsikerdekis, “Hourly Network Anomaly Detection on HTTP using Exponential Random Graph Models and Autoregressive Moving Average,”
 Journal of Cybersecurity and Privacy, 2023. To appear.
 
-Tsikerdekis, M. , S. Waldron , and A. Emanuelson, “Network Anomaly Detection Using Exponential Random Graph Models and Autoregressive Moving Average,” IEEE Access, vol. 9, pp. 134 530–134 542, 2021, issn: 2169-3536. doi: 10.1109/ACCESS.2021.3116575. Impact Factor: 3.367
+Tsikerdekis, M. , S. Waldron , and A. Emanuelson, “Network Anomaly Detection Using Exponential Random Graph Models and Autoregressive Moving Average,” IEEE Access, vol. 9, pp. 134 530–134 542, 2021, issn: 2169-3536. doi: [10.1109/ACCESS.2021.3116575](https://doi.org/10.1109/ACCESS.2021.3116575). Impact Factor: 3.367
 
 Tran, K., S. Keene, E. Fretheim, and M. Tsikerdekis, “Marine Network Protocols and Security Risks,” Journal of Cybersecurity and Privacy, vol. 1, no. 2,
-pp. 239–251, 2021, issn: 2624-800X. doi: 10.3390/jcp1020013. [Online]. Available: https://www.mdpi.com/2624-800X/1/2/13. Feature Article (for July
+pp. 239–251, 2021, issn: 2624-800X. doi: 10.3390/jcp1020013. [Online]. Available: [https://www.mdpi.com/2624-800X/1/2/13](https://www.mdpi.com/2624-800X/1/2/13). Feature Article (for July
 2021), Journal Front Page.
 
 <!--l. 236--><p class="noindent" >  <span 

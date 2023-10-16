@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# For Senior Project override and Graduation
+## For Senior Project override and Graduation
 
 You need to go to DegreeWorks:
 
@@ -16,3 +16,7 @@ You need to go to DegreeWorks:
 - Then check that all degree requirements are checked (checkboxes should be full for most items).
 - Export that view as a PDF. This should include all planned course (you will see them at the bottom).
 - Send this to me via email.
+
+## Other requests
+
+Email me at Michael.Tsikerdekis@wwu.edu

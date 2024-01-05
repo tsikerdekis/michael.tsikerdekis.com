@@ -12,8 +12,8 @@ main:
   - title: "Grokking Rel. Database Design"
     url: /grokking-relational-database-design
 
-  - title: "Blog"
-    url: /blog/
+#  - title: "Blog"
+#    url: /blog/
     
   - title: "Contact"
     url: /contact/

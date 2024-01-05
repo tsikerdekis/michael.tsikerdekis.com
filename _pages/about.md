@@ -21,7 +21,7 @@ I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to
         <p> [Grokking Relational Database Design](http://mng.bz/7v2Q) <br>Short description for Book 1.</p>
     </div>
     <div style="flex: 0 0 48%;">
-        <img src="images/Cover1024_1.jpg" alt="Journeys of the Lost: The Saga of Cane">
+        <img src="images/Cover1024_1.jpg" style="height:331px;" alt="Journeys of the Lost: The Saga of Cane">
         <p> [Journeys of the Lost: The Saga of Cane](https://www.amazon.com/dp/B0C2BTGC1N) <br>Short description for Book 2.</p>
     </div>
 </div>

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there and welcome to my personal website! I am an Associate Professor in Computer Science at Western Washington University, located in the small but quaint city of Bellingham WA. I am also a fantasy novel author of the book [Journeys of the Lost: The Saga of Cane](/journeys-of-the-lost). Also, an IEEE Senior Member and chair of the [PISCES](https://pisces-nw.org/) Technical Advisory Committee.
+Hello there and welcome to my personal website! I am an Associate Professor in Computer Science at Western Washington University, located in the small but quaint city of Bellingham WA. I am a fantasy novel author of the book [Journeys of the Lost: The Saga of Cane](/journeys-of-the-lost). Also, an IEEE Senior Member and chair of the [PISCES](https://pisces-nw.org/) Technical Advisory Committee.
 
 ### Science
 My background is in Computer Science and covers many years of interdisciplinary work in academic departments varying from Sociology to Information Science. My research interests revolve around online deception, cybersecurity, data mining and machine learning.

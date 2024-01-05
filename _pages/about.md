@@ -18,11 +18,11 @@ I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 0 0 48%; text-align: center;">
         <img src="images/Hao-HI-MEAP.jpg" alt="Grokking Relational Database Design" style="width: 220px; height: 331px; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
-        <p style="text-align: center;"> <a href="http://mng.bz/7v2Q" target="_blank">Grokking Relational Database Design</a> <br>A friendly illustrated guide to designing and implementing your first database.</p>
+        <p style="text-align: center; margin-top: 10px;"> <a href="http://mng.bz/7v2Q" target="_blank">Grokking Relational Database Design</a> <br>A friendly illustrated guide to designing and implementing your first database.</p>
     </div>
     <div style="flex: 0 0 48%; text-align: center;">
         <img src="images/Cover1024_1.jpg" alt="Journeys of the Lost: The Saga of Cane" style="width: 220px; height: 331px; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
-        <p style="text-align: center;"> <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Journeys of the Lost: The Saga of Cane</a> <br>An immortal man, cursed for killing a god, must protect a mortal god from looming evil, in this action-packed fantasy novel.</p>
+        <p style="text-align: center; margin-top: 10px;"> <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Journeys of the Lost: The Saga of Cane</a> <br>An immortal man, cursed for killing a god, must protect a mortal god from looming evil, in this action-packed fantasy novel.</p>
     </div>
 </div>
 

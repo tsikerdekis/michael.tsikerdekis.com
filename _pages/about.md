@@ -15,14 +15,14 @@ My background is in Computer Science and covers many years of interdisciplinary 
 ### Books
 I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to non-fiction scientific books. I write on my free time books with compelling characters and inspiring stories.
 
-<div style="display: flex; justify-content: space-between; align-items: top;">
-    <div style="flex: 0 0 48%;">
-        <img src="images/Hao-HI-MEAP.jpg" alt="Grokking Relational Database Design">
-        <p> <a href="http://mng.bz/7v2Q" target="_blank">Grokking Relational Database Design</a> <br>A friendly illustrated guide to designing and implementing your first database.</p>
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 0 0 48%; text-align: center;">
+        <img src="images/Hao-HI-MEAP.jpg" alt="Grokking Relational Database Design" style="display: block; margin: 0 auto;">
+        <p style="text-align: center;"> <a href="http://mng.bz/7v2Q" target="_blank">Grokking Relational Database Design</a> <br>A friendly illustrated guide to designing and implementing your first database.</p>
     </div>
-    <div style="flex: 0 0 48%;">
-        <img src="images/Cover1024_1.jpg" style="height:331px;" alt="Journeys of the Lost: The Saga of Cane">
-        <p> <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Journeys of the Lost: The Saga of Cane</a> <br>Cursed for killing a god, an immortal man with the ability to see the dead must protect a mortal god from a looming evil that threatens to unleash chaos upon the world, in this gripping, slow-burner, and action-packed fantasy novel.</p>
+    <div style="flex: 0 0 48%; text-align: center;">
+        <img src="images/Cover1024_1.jpg" style="height:331px; display: block; margin: 0 auto;" alt="Journeys of the Lost: The Saga of Cane">
+        <p style="text-align: center;"> <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Journeys of the Lost: The Saga of Cane</a> <br>Cursed for killing a god, an immortal man with the ability to see the dead must protect a mortal god from a looming evil that threatens to unleash chaos upon the world, in this gripping, slow-burner, and action-packed fantasy novel.</p>
     </div>
 </div>
 

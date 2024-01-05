@@ -13,7 +13,7 @@ Hello there and welcome to my personal website! I am an Associate Professor in C
 My background is in Computer Science and covers many years of interdisciplinary work in academic departments varying from Sociology to Information Science. My research interests revolve around online deception, cybersecurity, data mining and machine learning.
 
 ### Books
-I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to non-fiction scientific books. I write on my free time books with compelling characters and inspiring stories.
+I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to non-fiction scientific books. I write fiction books with compelling characters and inspiring stories and non-fiction on tech topics.
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 0 0 48%; text-align: center;">

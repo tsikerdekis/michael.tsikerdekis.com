@@ -17,15 +17,14 @@ I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 0 0 48%; text-align: center;">
-        <img src="images/Hao-HI-MEAP.jpg" alt="Grokking Relational Database Design" style="display: block; margin: 0 auto;">
+        <img src="images/Hao-HI-MEAP.jpg" alt="Grokking Relational Database Design" style="width: 220px; height: 331px; object-fit: cover; border: 2px solid #ccc;">
         <p style="text-align: center;"> <a href="http://mng.bz/7v2Q" target="_blank">Grokking Relational Database Design</a> <br>A friendly illustrated guide to designing and implementing your first database.</p>
     </div>
     <div style="flex: 0 0 48%; text-align: center;">
-        <img src="images/Cover1024_1.jpg" style="height:331px; display: block; margin: 0 auto;" alt="Journeys of the Lost: The Saga of Cane">
+        <img src="images/Cover1024_1.jpg" alt="Journeys of the Lost: The Saga of Cane" style="width: 220px; height: 331px; object-fit: cover; border: 2px solid #ccc;">
         <p style="text-align: center;"> <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Journeys of the Lost: The Saga of Cane</a> <br>An immortal man, cursed for killing a god, must protect a mortal god from looming evil, in this action-packed fantasy novel.</p>
     </div>
 </div>
-
 
 ### Personal
 On a more personal level, I should also mention my great love and appreciation for the outdoors and the energy that feeds my inner self from the experiences created in the natural world with my beautiful family. Parallel to this, lies my utter devotion to the world of video games (of all genres) and the adventures created within the digital world.

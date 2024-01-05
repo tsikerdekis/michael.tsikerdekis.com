@@ -22,7 +22,7 @@ I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to
     </div>
     <div style="flex: 0 0 48%; text-align: center;">
         <img src="images/Cover1024_1.jpg" style="height:331px; display: block; margin: 0 auto;" alt="Journeys of the Lost: The Saga of Cane">
-        <p style="text-align: center;"> <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Journeys of the Lost: The Saga of Cane</a> <br>Cursed for killing a god, an immortal man with the ability to see the dead must protect a mortal god from a looming evil that threatens to unleash chaos upon the world, in this gripping, slow-burner, and action-packed fantasy novel.</p>
+        <p style="text-align: center;"> <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Journeys of the Lost: The Saga of Cane</a> <br>An immortal man, cursed for killing a god, must protect a mortal god from looming evil, in this action-packed fantasy novel.</p>
     </div>
 </div>
 

@@ -15,6 +15,18 @@ My background is in Computer Science and covers many years of interdisciplinary 
 ### Books
 I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to non-fiction scientific books. I write on my free time books with compelling characters and inspiring stories.
 
+<div style="display: flex; justify-content: space-between; align-items: top;">
+    <div style="flex: 0 0 48%;">
+        <img src="grokking-relational-database-design.png" alt="Grokking Relational Database Design">
+        <p>[Grokking Relational Database Design](http://mng.bz/7v2Q)<br>Short description for Book 1.</p>
+    </div>
+    <div style="flex: 0 0 48%;">
+        <img src="journeys-of-the-lost-the-saga-of-cane.png" alt="Journeys of the Lost: The Saga of Cane">
+        <p>[Journeys of the Lost: The Saga of Cane](https://www.amazon.com/dp/B0C2BTGC1N)<br>Short description for Book 2.</p>
+    </div>
+</div>
+
+
 ### Personal
 On a more personal level, I should also mention my great love and appreciation for the outdoors and the energy that feeds my inner self from the experiences created in the natural world with my beautiful family. Parallel to this, lies my utter devotion to the world of video games (of all genres) and the adventures created within the digital world.
 

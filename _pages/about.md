@@ -17,12 +17,12 @@ I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to
 
 <div style="display: flex; justify-content: space-between; align-items: top;">
     <div style="flex: 0 0 48%;">
-        <img src="images/grokking-relational-database-design.png" alt="Grokking Relational Database Design">
-        <p>[Grokking Relational Database Design](http://mng.bz/7v2Q)<br>Short description for Book 1.</p>
+        <img src="images/Hao-HI-MEAP.jpg" alt="Grokking Relational Database Design">
+        <p> [Grokking Relational Database Design](http://mng.bz/7v2Q) <br>Short description for Book 1.</p>
     </div>
     <div style="flex: 0 0 48%;">
         <img src="images/Cover1024_1.jpg" alt="Journeys of the Lost: The Saga of Cane">
-        <p>[Journeys of the Lost: The Saga of Cane](https://www.amazon.com/dp/B0C2BTGC1N)<br>Short description for Book 2.</p>
+        <p> [Journeys of the Lost: The Saga of Cane](https://www.amazon.com/dp/B0C2BTGC1N) <br>Short description for Book 2.</p>
     </div>
 </div>
 

@@ -10,6 +10,12 @@ author_profile: true
 ### When do you need to start Senior Project (CSCI 491)?
 Typically three quarters before you graduate. Summer does not count since 49x is not offered during the summer. If it takes you one more quarter after finishing 493, it is okay.
 
+### What types of Senior Projects are out there?
+Research and software. Research is all about analysis and producing a research paper as the main output. Software products a software as the main output, although research produces some code usually too.
+
+### What courses to take in what priority?
+There is no priority for most 300x and 400x courses, however, my advise is when you see an elective available take it. There is a limited amount of electives and they are required for you to graduate.
+
 ### When do you need to apply for Graduation?
 One quarter before you graduate.
 

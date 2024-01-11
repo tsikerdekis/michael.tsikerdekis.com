@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## When do you need to start Senior Project (CSCI 491)?
+### When do you need to start Senior Project (CSCI 491)?
 Typically three quarters before you graduate. Summer does not count since 49x is not offered during the summer. If it takes you one more quarter after finishing 493, it is okay.
 
 ## When do you need to apply for Graduation?

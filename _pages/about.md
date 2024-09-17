@@ -26,7 +26,7 @@ I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to
     </div>
     <div style="flex: 0 0 48%; text-align: center;">
         <img src="images/overnight-hercules-for-network-security.png" alt="Overnight Hercules for Network Security" style="width: 220px; height: 331px; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
-        <p style="text-align: center; margin-top: 10px;"> <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Overnight Hercules for Network Security:<br />Become a Security Analyst</a> <br>Unlock your cybersecurity potential with a practical, example-driven guide designed to transform beginners into skilled security analysts in no time.</p>
+        <p style="text-align: center; margin-top: 10px;"> <a href="https://www.amazon.com/dp/B0DH5CZG56" target="_blank">Overnight Hercules for Network Security:<br />Become a Security Analyst</a> <br>Unlock your cybersecurity potential with a practical, example-driven guide designed to transform beginners into skilled security analysts in no time.</p>
     </div>
 </div>
 

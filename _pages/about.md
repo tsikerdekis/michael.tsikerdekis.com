@@ -15,7 +15,7 @@ My background is in Computer Science and covers many years of interdisciplinary 
 ### Books
 I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to non-fiction scientific books. I write fiction books with compelling characters and inspiring stories and non-fiction on tech topics.
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="flex: 0 0 48%; text-align: center;">
         <img src="images/Hao-HI-MEAP.jpg" alt="Grokking Relational Database Design" style="width: 220px; height: 331px; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
         <p style="text-align: center; margin-top: 10px;"> <a href="http://mng.bz/7v2Q" target="_blank">Grokking Relational Database Design</a> <br>A friendly illustrated guide to designing and implementing your first database.</p>
@@ -23,6 +23,10 @@ I like a variety of books from fantasy (high, contemporary, epic, dark, etc.) to
     <div style="flex: 0 0 48%; text-align: center;">
         <img src="images/Cover1024_1.jpg" alt="Journeys of the Lost: The Saga of Cane" style="width: 220px; height: 331px; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
         <p style="text-align: center; margin-top: 10px;"> <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Journeys of the Lost: The Saga of Cane</a> <br>An immortal man, cursed for killing a god, must protect a mortal god from looming evil, in this action-packed fantasy novel.</p>
+    </div>
+    <div style="flex: 0 0 48%; text-align: center;">
+        <img src="images/overnight-hercules-for-network-security.png" alt="Overnight Hercules for Network Security" style="width: 220px; height: 331px; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
+        <p style="text-align: center; margin-top: 10px;"> <a href="https://www.amazon.com/dp/B0C2BTGC1N" target="_blank">Overnight Hercules for Network Security:<br />Become a Security Analyst</a> <br>Unlock your cybersecurity potential with a practical, example-driven guide designed to transform beginners into skilled security analysts in no time.</p>
     </div>
 </div>
 

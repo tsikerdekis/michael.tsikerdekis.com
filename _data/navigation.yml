@@ -3,14 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-    
+  - title: "Overnight Hercules for Network Sec."
+    url: /overnight-hercules-for-network-security/
+
+  - title: "Grokking Rel. DB Design"
+    url: /grokking-relational-database-design
+
   - title: "Journeys of the Lost"
     url: /journeys-of-the-lost
 
-  - title: "Grokking Relational Database Design"
-    url: /grokking-relational-database-design
+  - title: "CV"
+    url: /cv/
 
 #  - title: "Blog"
 #    url: /blog/

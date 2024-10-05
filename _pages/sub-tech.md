@@ -3,7 +3,6 @@ permalink: /sub-tech
 title: "Stay in touch with Michael Tsikerdekis"
 author_profile: true
 ---
-
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1727942");</style>
     <style type="text/css">
     /* LOADER */
@@ -870,14 +869,16 @@ author_profile: true
   
 
   
-  
   <script>
     function ml_webform_success_18645598() {
-      var $ = ml_jQuery || jQuery;
-      $('.ml-subscribe-form-18645598 .row-success').show();
-      $('.ml-subscribe-form-18645598 .row-form').hide();
+    try {
+        window.top.location.href = 'https://michael.tsikerdekis.com/thank-you-tech';
+      } catch (e) {
+        window.location.href = 'https://michael.tsikerdekis.com/thank-you-tech';
+      }
     }
       </script>
+  
   
   
       <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v2d8fb22bb5b3677f161552cd9e774127" type="text/javascript"></script>

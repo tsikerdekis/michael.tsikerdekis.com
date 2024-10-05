@@ -896,9 +896,9 @@ transform-origin: 0 0;
 <script>
 function ml_webform_success_18645598() {
 try {
-window.top.location.href = 'https://michael.tsikerdekis.com/thank-you-sub';
+window.top.location.href = 'https://michael.tsikerdekis.com/thank-you-tech';
 } catch (e) {
-window.location.href = 'https://michael.tsikerdekis.com/thank-you-sub';
+window.location.href = 'https://michael.tsikerdekis.com/thank-you-tech';
 }
 }
 </script>

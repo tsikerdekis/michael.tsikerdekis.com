@@ -2,8 +2,6 @@
 permalink: /thank-you-tech
 title: "Thank you for subscribing to my mailing list"
 author_profile: true
-redirect_from:
-  - /thank-you-tech.html
 ---
 
 **Thank you** for subscribing to my personal mailing list.

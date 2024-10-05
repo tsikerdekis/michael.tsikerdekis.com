@@ -2,8 +2,6 @@
 permalink: /thank-you-sub
 title: "Thank you for subscribing to my mailing list"
 author_profile: true
-redirect_from:
-  - /thank-you.html
 ---
 
 **Thank you** for subscribing to my mailing list and welcome to the world of Journeys of the Lost and my personal mailing list.

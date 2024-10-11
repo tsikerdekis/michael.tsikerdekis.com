@@ -36,7 +36,7 @@ Secure your copy today and start your path to becoming a network security analys
 
 
 <center> 
-  <a href="https://www.amazon.com/dp/B0DH5CZG56" target="_blank" style="color:#000;">Buy on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0DH5CZG56?maas=maas_adg_CEE7348B37C70995C4A38019643534E8_afap_abs&ref_=aa_maas&tag=maas" target="_blank" style="color:#000;">Buy on Amazon</a>
 </center>
 
 

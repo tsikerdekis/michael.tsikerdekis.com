@@ -10,17 +10,24 @@ redirect_from:
 
 ![image](/images/Cover1024_1.jpg){: style="margin:10px;width:200px;float: left"}
 
-**An immortal man cursed with the ability to see the dead must protect a god in mortal form from a looming evil that threatens the world.**
+**He’s cursed, immortal, and hunted by the souls of the dead—now, Cane must protect a reborn god to stop an apocalypse! But can a god killer really save the world?**
 
-Cursed for an eternity, Cane is an immortal man who can see the dead and walks the Earth as a punishment for killing a god. Living an existence of pain and suffering for centuries, he has been reduced to hunting monsters lurking in the shadows of our 21st-century world.
+Cursed by the gods for killing one of their own, Cane has roamed the Earth for centuries—immortal and tormented by the souls of the dead who haunt him. His punishment forces him to hunt dark creatures lurking in the shadows, a constant reminder of his guilt.
 
-But when a god is awakened in a mortal body, Cane's torturous reality is disrupted. Her past is a mystery, and a threat is seeking to destroy her. As Cane fights to save her from this looming evil, he discovers that her true identity is tied to his past and that her fate is intricately intertwined with his own.
+When a god is reborn in the body of a mortal woman with no memory of her divine origins, Cane is compelled to protect her. Her existence is tied to a looming catastrophe, offering him a chance at redemption, though it forces him to confront the pain he's long tried to escape.
 
-Journeys of the Lost: The Saga of Cane is a contemporary supernatural fiction novel that blends historical locations and facts with storytelling. It is the first in a planned series of three and features a colorful cast of characters, including strong women, LGBT, and ethnically diverse characters.
+As ancient forces stir and rival gods prepare for war, Cane forms an unlikely alliance with a brilliant but unstable mage, a conflicted vampire, a mysterious hive-mind entity, and a no-nonsense Scottish police officer. Together, they unravel secrets that could either save or doom humanity in a thrilling, globe-spanning adventure that explores myth, history, and the quest for redemption.
 
-The book also includes light romance and explores themes of determination, defiance, injustice, and redemption. The adventure will take readers across the globe, from Israel to China, North America, and even Antarctica, as sinister forces threaten to destroy the world.
+![image](/images/Cover2.png){: style="margin:10px;width:200px;float: left"}
 
-**If you liked HIS DARK MATERIALS, or HIGHLANDER, you will LOVE this book.**
+**At the brink of apocalypse, what does it mean to exist beyond hope?**
+
+In the aftermath of a god’s death, divine anger threatens to trigger the biblical apocalypse, pushing humanity to the edge of destruction. Cane, an immortal haunted by the gods' slaughter of his race, faces a new threat as gods, fearing their own mortality, lash out. Joined by a diverse group of allies—Abigail, a Scottish mage; Hikaru, a frost mage; Gwin, a vampire; and Legion, a hive mind entity—Cane embarks on a quest to stop divine wrath from ending the world.
+
+Their journey takes them across the globe, from New York to the mystical landscapes of Japan and Santorini, Greece, as they confront mythological battles and forge alliances with other gods. With one deity already on their side, they race against time to recruit others and prevent the gods from erasing humanity.
+
+As the apocalypse looms, Cane and his team must navigate both divine fury and their own internal struggles. The fate of the world hangs in the balance, and only their resilience and unity stand between humanity and annihilation. 
+
 
 <center> 
  

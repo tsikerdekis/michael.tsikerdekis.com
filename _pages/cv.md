@@ -25,6 +25,12 @@ Past
 
 Grant Funding
 ======
+* Fretheim, E., Tsikerdekis, M., (CI). (March-June 2024). Public Infrastructure Security Cyber Education System - Northwest (PISCES-NW), Pacific Northwest National Laboratory (PNNL)
+
+* Tsikerdekis, M. (2024). Enhancing Cybersecurity Education and Infrastructure for Small Public Entities in Greece. US Scholar Fulbright Grant. In response to: Fulbright Scholar Program Award – Greece 24525-GR.
+
+* Hao, Q., Tsikerdekis, M., (Co-PI). (December 2023). Mini-Grant Award #MS0152, Western Washington University.
+
 * Fretheim, E., Tsikerdekis, M., Co-PI. (July-September 2020). Public Infrastructure Security Cyber Education System - Northwest (PISCES-NW), Pacific
 Northwest National Laboratory (PNNL).
 

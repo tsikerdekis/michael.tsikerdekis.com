@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there and welcome to my personal website! I am an Associate Professor in Computer Science at Western Washington University, located in the small but quaint city of Bellingham WA. I am also an IEEE Senior Member, chair of the [PISCES](https://pisces-intl.org/) Technical Advisory Committee, and 24/25 U.S. Fulbright Scholar.
+Hello there and welcome to my personal website! I am an Associate Professor in Computer Science at Western Washington University, located in the small but quaint city of Bellingham WA. I am also an IEEE Senior Member, academic lead for [PISCES](https://pisces-intl.org/), and 24/25 U.S. Fulbright Scholar. My work has been featured in various places including Seattle Metropolitan Magazine, IEEE Computing Edge, and [WLEX](https://www.lex18.com/).
 
 ### Science
 My background is in Computer Science and covers many years of interdisciplinary work in academic departments varying from Sociology to Information Science. My research interests revolve around online deception, cybersecurity, data mining and machine learning.

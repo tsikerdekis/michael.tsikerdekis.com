@@ -14,6 +14,14 @@ author_profile: true
 	.ec-lmbxi-10{ font-style:italic; font-weight: bold;}
 </style>
 
+Perez, A. J., S. Zeadally, B. Hammi, I. Katib, and **M. Tsikerdekis**, “Metaverse for Elderly Health Care,” IT Professional, . Accepted. **Impact Factor: 2.6**
+
+Hammi, B., S. Zeadally, M. Laurent, and **M. Tsikerdekis**, “On the resilience of the end-to-end digital supply chain,” Computer Security, . Accepted. **Impact Factor: 5.6**
+
+Hao, Q. and **M. Tsikerdekis**, Grokking Relational Database Design. New York, NY, USA: Manning, 2024, p. 350, isbn: 9781633437418. [Online]. Available: https://www.manning.com/books/grokking- relational- database- design. **500+ sales in the first semester in early access. **
+
+**Tsikerdekis, M.**, S. Zeadally, and I. Katib, “Defenses against artificial intelligence attacks,” IEEE Computer, vol. 57, no. 11, pp. 49–59, 2024. doi: 10.1109/MC.2024.3420782. **Impact Factor: 2** 
+
 **Tsikerdekis, M.** and S. Zeadally, “Misinformation detection using deep learning,” IT Professional, 2023. To appear. **Impact Factor: 2.6**
 
 Li, R. and **M. Tsikerdekis**, “Hourly Network Anomaly Detection on HTTP using Exponential Random Graph Models and Autoregressive Moving Average,”

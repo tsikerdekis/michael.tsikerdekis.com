@@ -22,10 +22,9 @@ Hao, Q. and **M. Tsikerdekis**, Grokking Relational Database Design. New York, N
 
 **Tsikerdekis, M.**, S. Zeadally, and I. Katib, “Defenses against artificial intelligence attacks,” IEEE Computer, vol. 57, no. 11, pp. 49–59, 2024. doi: 10.1109/MC.2024.3420782. **Impact Factor: 2** 
 
-**Tsikerdekis, M.** and S. Zeadally, “Misinformation detection using deep learning,” IT Professional, 2023. To appear. **Impact Factor: 2.6**
+**Tsikerdekis, M.** and S. Zeadally, “Misinformation Detection Using Deep Learning,” IT Professional, vol. 25, no. 5, pp. 57–63, 2023, issn: 1520-9202. doi: 10.1109/MITP.2023.3314752. **Impact Factor: 2.6**
 
-Li, R. and **M. Tsikerdekis**, “Hourly Network Anomaly Detection on HTTP using Exponential Random Graph Models and Autoregressive Moving Average,”
-Journal of Cybersecurity and Privacy, 2023. To appear.
+Li, R. and **M. Tsikerdekis**, “Hourly Network Anomaly Detection on HTTP Using Exponential Random Graph Models and Autoregressive Moving Average,” Journal of Cybersecurity and Privacy, vol. 3, no. 3, pp. 435–450, 2023, issn: 2624-800X. doi: 10.3390/jcp3030022. [Online]. Available: https://www.mdpi.com/ 2624-800X/3/3/22. **Citescore: 5.3**
 
 **Tsikerdekis, M.**, S. Waldron , and A. Emanuelson, “Network Anomaly Detection Using Exponential Random Graph Models and Autoregressive Moving Average,” IEEE Access, vol. 9, pp. 134 530–134 542, 2021, issn: 2169-3536. doi: [10.1109/ACCESS.2021.3116575](https://doi.org/10.1109/ACCESS.2021.3116575). **Impact Factor: 3.367**
 

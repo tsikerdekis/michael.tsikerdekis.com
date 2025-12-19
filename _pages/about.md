@@ -14,7 +14,7 @@ With a background spanning Computer Science, Information Science, and Sociology,
 
 **Research & Development:** Online deception detection, anomaly detection algorithms, SOC operations optimization, and machine learning applications in security contexts.
 
-**Professional Practice:** I translate complex security research into actionable solutions, having contributed to cybersecurity education, threat detection systems, and operational security frameworks. My technical writing includes both peer-reviewed publications and industry-focused guides that make advanced concepts accessible to practitioners.
+**Professional Practice:** I translate complex security research into actionable solutions, having contributed to cybersecurity education, threat detection systems, operational security frameworks, and governance/compliance initiatives. My expertise spans security operations, risk assessment, and regulatory frameworks. My technical writing includes both peer-reviewed publications and industry-focused guides that make advanced concepts accessible to practitioners and security teams.
 
 ### Published Works
 As an author, I create both technical and creative content. My technical books demystify complex cybersecurity and database concepts for professionals and students alike, while my fiction explores compelling narratives that challenge and inspire readers.
@@ -42,7 +42,7 @@ As an author, I create both technical and creative content. My technical books d
 I believe in balanced living—drawing energy from outdoor adventures with my family and immersive gaming experiences across all genres. This perspective informs my approach to problem-solving: staying grounded while embracing innovation.
 
 ### Collaboration
-Whether you're seeking academic collaboration, consulting on cybersecurity challenges, or exploring research partnerships, I'm open to meaningful professional connections. 
+Whether you're seeking academic collaboration, consulting on cybersecurity challenges, security operations leadership, GRC implementation, or exploring research partnerships, I'm open to meaningful professional connections. 
 
 > **For WWU Students or Prospective Students**  
 > Interested in working on a research project (e.g., pursuing research in Forensics/Security and Social Computing) through graduate studies, independent study or otherwise? I am always on the lookout for dedicated undergraduate and graduate students that want to gain more experience and discover interesting things. [Contact me](/contact/)

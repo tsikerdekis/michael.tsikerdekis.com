@@ -13,21 +13,21 @@ redirect_from:
 Current
 ======
 * September 2021 - Associate Professor, Western Washington University, Computer Science Department
-* 2020 - Present Technical Advisory Chair, PISCES-International (Public Sector SOC Oversight)
-* 2024 - 2025 U.S. Fulbright Scholar
+* 2020 - Present - Technical Advisory Chair, PISCES-International (Public Sector SOC Oversight)
+* 2024 - 2025 - U.S. Fulbright Scholar
 
 Technical Systems & Applied Architecture
 ======
-* 2021 - 2024 Citasion: Secure Identity & Data System Architecture
-* 2018 - Present Northshore Press: Digital Distribution Infrastructure & GRC
+* 2021 - 2024 - Citasion: Secure Identity & Data System Architecture
+* 2024 - Present - Northshore Press: Digital Distribution Infrastructure & GRC
 
 Past
 ======
-* July 2017 - September 2021 Assistant Professor, Western Washington University, Computer Science Department
-* August 2013 - July 2017 Assistant Professor, University of Kentucky, School of Information Science
-* September 2012 - January 2013 Teaching Assistant, Masaryk University
-* February 2012- July 2012 Lecturer, Masaryk University
-* December 2008 -  February 2009 IT System Server Operator, IBM IDC (GSDC) -- Brno, Czech Republic
+* July 2017 - September 2021 - Assistant Professor, Western Washington University, Computer Science Department
+* August 2013 - July 2017 - Assistant Professor, University of Kentucky, School of Information Science
+* September 2012 - January 2013 - Teaching Assistant, Masaryk University
+* February 2012- July 2012 - Lecturer, Masaryk University
+* December 2008 -  February 2009 - IT System Server Operator, IBM IDC (GSDC) -- Brno, Czech Republic
 
 Grant Funding
 ======

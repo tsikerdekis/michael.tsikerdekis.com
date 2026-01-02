@@ -18,7 +18,7 @@ Current
 
 Technical Systems & Applied Architecture
 ======
-* 2020 - 2024 Citasion: Secure Identity & Data System Architecture
+* 2021 - 2024 Citasion: Secure Identity & Data System Architecture
 * 2018 - Present Northshore Press: Digital Distribution Infrastructure & GRC
 
 Past

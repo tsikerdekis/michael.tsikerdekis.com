@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+
 Current
 ======
 * September 2021 - Associate Professor, Western Washington University, Computer Science Department
-* 2020 - Present **Technical Advisory Chair**, PISCES-International (Public Sector SOC Oversight)
+* 2020 - Present Technical Advisory Chair, PISCES-International (Public Sector SOC Oversight)
 * 2024 - 2025 U.S. Fulbright Scholar
 
 Technical Systems & Applied Architecture
 ======
-* 2020 - 2024 **Citasion:** Secure Identity & Data System Architecture
-* 2018 - Present **Northshore Press:** Digital Distribution Infrastructure & GRC
+* 2020 - 2024 Citasion: Secure Identity & Data System Architecture
+* 2018 - Present Northshore Press: Digital Distribution Infrastructure & GRC
 
 Past
 ======
@@ -31,7 +32,7 @@ Past
 Grant Funding
 ======
 * Tsikerdekis, M. (PI). (2025). Mini-Grant Award # MS0220, Western Washington University. Funded for research resulting in publication.
-* Tsikerdekis, M. (PI) (2025). Enhancing Cybersecurity Education and Infrastructure for Small Public Entities in Greece. **US Scholar Fulbright Grant**. In response to: Fulbright Scholar Program Award – Greece 24525-GR.
+* Tsikerdekis, M. (PI) (2025). Enhancing Cybersecurity Education and Infrastructure for Small Public Entities in Greece. US Scholar Fulbright Grant. In response to: Fulbright Scholar Program Award – Greece 24525-GR.
 * Fretheim, E., Tsikerdekis, M. (CI), Idriss, T (March–June 2025). Public Infrastructure Security Cyber Education System – Northwest (PISCES-NW), Pacific Northwest National Laboratory (PNNL) (SRS-752809).
 * Fretheim, E., Tsikerdekis, M. (CI) (2023-2024). Public Infrastructure Security Cyber Education System – Northwest (PISCES-NW), Pacific Northwest National Laboratory (PNNL) (Contract: 721277).
 * Hao, Q., Tsikerdekis, M., (CI). (December 2023). Mini-Grant Award # MS0152, Western Washington University. Funded for student work resulting in publication.

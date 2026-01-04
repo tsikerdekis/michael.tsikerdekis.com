@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal site. I am a **Cybersecurity Executive and Researcher** with over 12 years of experience building security, governance, and risk programs. I currently serve as an Associate Professor at Western Washington University and am a **24/25 U.S. Fulbright Scholar**.
+Welcome to my personal site. I am a **Cybersecurity Professional and Researcher** with over 12 years of experience building security, governance, and risk programs. I currently serve as an Associate Professor at Western Washington University and am a **24/25 U.S. Fulbright Scholar**.
 
 As an **IEEE Senior Member** and the Technical Advisory Chair for **[PISCES](https://pisces-intl.org/)**, I bridge the gap between academic innovation and operational security leadership. My work in SOC oversight, Security, Privacy and AI governance has been featured in *Seattle Metropolitan Magazine*, *IEEE Computing Edge*, and *WLEX*.
 
@@ -15,7 +15,7 @@ As an **IEEE Senior Member** and the Technical Advisory Chair for **[PISCES](htt
 I specialize in translating complex technical risks—spanning AI/ML, data systems, and network infrastructure—into enterprise-level governance and risk reduction strategies.
 
 * **Security Governance & Leadership:** Lead technical advisor for public sector SOC initiatives (PISCES), aligning security curriculum and operational frameworks to CISA NICE standards.
-* **GRC & Frameworks:** Expert in implementing NIST CSF 2.0, NIST AI RMF, and ISO 27001 to meet regulatory obligations including GDPR, CCPA, and HIPAA.
+* **GRC & Frameworks:** Expertise in implementing NIST CSF 2.0, NIST AI RMF, and ISO 27001 to meet regulatory obligations including GDPR, CCPA, and HIPAA.
 * **AI/Data Risk Oversight:** Specialist in Responsible AI, model risk assessment, and identity deception detection.
 * **Operational Resilience:** Experienced in incident response planning and maturing SOC practices through public-private partnerships.
 

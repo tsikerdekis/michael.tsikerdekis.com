@@ -7,18 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal site. I am a **Cybersecurity Professional and Researcher** with over 12 years of experience architecting secure systems, designing enterprise governance frameworks, and leading security innovation across AI/ML and data engineering. I currently serve as an Associate Professor at Western Washington University and am a **24/25 U.S. Fulbright Scholar**.
+Welcome to my personal site. I am a Computer Science Professional and Researcher with over 12 years of experience architecting secure systems, designing enterprise governance frameworks, and leading security innovation across AI/ML and data engineering. I currently serve as an Associate Professor at Western Washington University and am a **24/25 U.S. Fulbright Scholar**.
 
 As an **IEEE Senior Member** and the Technical Advisory Chair for **[PISCES](https://pisces-intl.org/)**, I bridge the gap between academic innovation and operational security leadership. My work in SOC oversight, Security, Privacy and AI governance has been featured in *Seattle Metropolitan Magazine*, *IEEE Computing Edge*, and *WLEX*.
-
-### Professional Expertise & Impact
-I specialize in translating complex technical risks—spanning AI/ML, data systems, and network infrastructure—into enterprise-level governance and risk reduction strategies.
-
-* **Security Engineering & Architecture:** Design and implement secure systems, network infrastructure, and threat mitigation strategies. Lead security assessments and architecture reviews for complex environments.
-* **Software Engineering:** Full-stack development expertise with focus on security-first design patterns, secure coding practices, and resilient system architecture.
-* **AI/ML & Data Engineering:** Specialist in responsible AI, model risk assessment, identity deception detection, and secure data architecture design. Expert in translating data systems security into enterprise frameworks.
-* **GRC & Governance:** Lead technical advisor for public sector SOC initiatives (PISCES). Expertise in implementing NIST CSF 2.0, NIST AI RMF, and ISO 27001 to meet regulatory obligations including GDPR, CCPA, and HIPAA.
-* **Operational Resilience & Leadership:** Experienced in incident response planning, SOC maturity enhancement, and aligning security curriculum to CISA NICE standards through public-private partnerships.
 
 ### Published Works
 

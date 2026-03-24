@@ -18,8 +18,8 @@ Current
 
 Technical Systems & Applied Architecture
 ======
-* 2021 - 2024 - Citasion: Secure Identity & Data System Architecture
-* 2024 - Present - Northshore Press: Digital Distribution Infrastructure & GRC
+* 2021 - 2024 - Citasion: Node.js, GCP, Firebase, Firestore, Payment system integration
+* 2024 - Present - Northshore Press: AI/ML end-to-end architecture, GCP, Python/FastAPI, PyTorch, Unity, C#, Android/WebGL, Cloudflare Zero Trust
 
 Past
 ======

@@ -28,7 +28,7 @@ My technical books demystify complex cybersecurity and database concepts for pro
 </div>
 
 #### Software Projects
-I build and ship software across security, education, and games—from autonomous SOC tooling to a parking game co-developed with my daughter.
+I build and ship software across security, education, and games.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
     <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">

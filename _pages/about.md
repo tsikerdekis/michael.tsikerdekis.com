@@ -27,6 +27,28 @@ My technical books demystify complex cybersecurity and database concepts for pro
     </div>
 </div>
 
+#### Software Projects
+I build and ship software across security, education, and games—from autonomous SOC tooling to a parking game co-developed with my daughter.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
+    <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
+        <img src="images/projects/securityclaw.png" alt="SecurityClaw" style="width: 100%; aspect-ratio: 2 / 1; height: auto; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
+        <p style="text-align: center; margin-top: 10px;"> <a href="https://github.com/SecurityClaw/SecurityClaw" target="_blank">SecurityClaw</a> <br>A modular, skill-based autonomous SOC agent that monitors OpenSearch/Elasticsearch telemetry, builds RAG-based behavioral memory, and validates real-time anomalies with LLMs.</p>
+    </div>
+    <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
+        <img src="images/projects/athina.png" alt="Athina" style="width: 100%; aspect-ratio: 2 / 1; height: auto; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
+        <p style="text-align: center; margin-top: 10px;"> <a href="https://github.com/athina-edu/athina" target="_blank">Athina</a> <br>An automated grading platform for programming assignments, with Docker-sandboxed multi-language testing, AI-powered feedback, plagiarism detection, and Canvas LMS integration.</p>
+    </div>
+    <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
+        <img src="images/projects/park-it-at-all-costs-card.jpg" alt="Park it at all costs!" style="width: 100%; aspect-ratio: 2 / 1; height: auto; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
+        <p style="text-align: center; margin-top: 10px;"> <a href="https://play.google.com/store/apps/details?id=com.northshorepress.parkitatallcosts" target="_blank">Park it at all costs!</a> <br>A casual parking puzzle game built with my daughter—can you park perfectly?</p>
+    </div>
+    <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
+        <img src="images/projects/drumdash-card.png" alt="DrumDash" style="width: 100%; aspect-ratio: 2 / 1; height: auto; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
+        <p style="text-align: center; margin-top: 10px;"> <a href="https://play.google.com/store/apps/details?id=com.northshorepress.Drumdash" target="_blank">DrumDash</a> <br>A rhythm game that takes your drumming to the next level.</p>
+    </div>
+</div>
+
 #### Creative Projects & Fiction
 Beyond technical writing, I explore compelling narratives that challenge the boundaries of imagination and hope.
 

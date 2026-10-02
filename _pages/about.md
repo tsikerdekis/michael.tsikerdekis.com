@@ -45,7 +45,7 @@ I build and ship software across security, education, and games.
     </div>
     <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
         <img src="images/projects/drumdash-card.png" alt="DrumDash" style="width: 100%; aspect-ratio: 2 / 1; height: auto; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
-        <p style="text-align: center; margin-top: 10px;"> <a href="https://drumdash.com" target="_blank">DrumDash</a> <br>A rhythm game that takes your drumming to the next level.</p>
+        <p style="text-align: center; margin-top: 10px;"> <a href="https://drumdash.com" target="_blank">DrumDash</a> <br>A rhythm game that takes your drumming to the next level. It uses AI for audio to drum transcription and generation of various difficulty levels.</p>
     </div>
 </div>
 

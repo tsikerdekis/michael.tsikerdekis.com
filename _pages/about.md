@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal site. I am a Computer Science Professional and Researcher with over 12 years of experience architecting secure systems, designing enterprise governance frameworks, and leading security innovation across AI/ML and data engineering. I currently serve as an Associate Professor at Western Washington University and am a **24/25 U.S. Fulbright Scholar**.
+Welcome to my personal site. I am a researcher, educator, and practitioner working at the intersection of computer science, business information systems, and the information sciences. Over 12 years I have architected secure systems, designed enterprise governance frameworks, and led security innovation across AI/ML and data engineering, while studying the sociotechnical forces that shape how people, organizations, and technology influence one another. I currently serve as an Associate Professor at Western Washington University and am a **24/25 U.S. Fulbright Scholar**.
 
-As an **IEEE Senior Member** and the Technical Advisory Chair for **[PISCES](https://pisces-intl.org/)**, I bridge the gap between academic innovation and operational security leadership. My work in SOC oversight, Security, Privacy and AI governance has been featured in *Seattle Metropolitan Magazine*, *IEEE Computing Edge*, and *WLEX*.
+As an **IEEE Senior Member** and the Technical Advisory Chair for **[PISCES](https://pisces-intl.org/)**, I bridge the gap between academic innovation and operational security leadership. My work on SOC oversight, security, privacy, and AI governance has been featured in *Seattle Metropolitan Magazine*, *IEEE Computing Edge*, and *WLEX*.
 
 ### Published Works
 

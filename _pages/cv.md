@@ -13,7 +13,8 @@ redirect_from:
 Current
 ======
 * September 2021 - Associate Professor, Western Washington University, Computer Science Department
-* 2020 - Present - Technical Advisory Chair, PISCES-International (Public Sector SOC Oversight)
+* 2026 - Present - Board Member, PISCES-International (Public Sector SOC Oversight)
+* 2020 - 2026 - Technical Advisory Chair, PISCES-International (Public Sector SOC Oversight)
 * 2024 - 2025 - U.S. Fulbright Scholar
 
 Technical Systems & Applied Architecture

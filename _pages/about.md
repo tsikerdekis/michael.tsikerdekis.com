@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my personal site. I am a researcher, educator, and practitioner working at the intersection of computer science, business information systems, and the information sciences. Over 12 years I have architected secure systems, designed enterprise governance frameworks, and led security innovation across AI/ML and data engineering, while studying the sociotechnical forces that shape how people, organizations, and technology influence one another. I currently serve as an Associate Professor at Western Washington University and am a **24/25 U.S. Fulbright Scholar**.
 
-As an **IEEE Senior Member** and the Technical Advisory Chair for **[PISCES](https://pisces-intl.org/)**, I bridge the gap between academic innovation and operational security leadership. My work on SOC oversight, security, privacy, and AI governance has been featured in *Seattle Metropolitan Magazine*, *IEEE Computing Edge*, and *WLEX*.
+As an **IEEE Senior Member** and a leader with **[PISCES](https://pisces-intl.org/)** as both Board Member and Technical Advisory Chair, I bridge the gap between academic innovation and operational security leadership. My work in SOC oversight, security, privacy, and AI governance has been featured in *Seattle Metropolitan Magazine*, *IEEE Computing Edge*, *Nikkei*, and *WLEX*.
 
 ### Published Works
 
@@ -45,7 +45,7 @@ I build and ship software across security, education, and games.
     </div>
     <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
         <img src="images/projects/drumdash-card.png" alt="DrumDash" style="width: 100%; aspect-ratio: 2 / 1; height: auto; object-fit: cover; border: none; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);">
-        <p style="text-align: center; margin-top: 10px;"> <a href="https://drumdash.com" target="_blank">DrumDash</a> <br>A rhythm game that takes your drumming to the next level.</p>
+        <p style="text-align: center; margin-top: 10px;"> <a href="https://drumdash.com" target="_blank">DrumDash</a> <br>A rhythm game that takes your drumming to the next level. It uses AI for audio to drum transcription and generation of various difficulty levels.</p>
     </div>
 </div>
 
